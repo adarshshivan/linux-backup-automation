@@ -1,8 +1,7 @@
 # 🖥️ Linux Backup Automation Script
 
-###👨‍💻 Author
-**Adarsh Shivan**
-GitHub: [https://github.com/adarshshivan](https://github.com/adarshshivan)
+### 👨‍💻 Author
+**Adarsh Shivan**<br>GitHub: [https://github.com/adarshshivan](https://github.com/adarshshivan)
 
 ---
 
